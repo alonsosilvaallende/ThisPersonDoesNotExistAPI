@@ -23,7 +23,7 @@ Why not? Use your imagination!
 
 ## Install it with pip
 ```bash
-pip install git+https://github.com/David-Lor/ThisPersonDoesNotExistAPI
+pip install git+https://github.com/alonsosilvaallende/ThisPersonDoesNotExistAPI
 ```
 
 ## Usage
